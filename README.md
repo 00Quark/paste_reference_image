@@ -59,6 +59,3 @@ brew install pngpaste
 sudo apt install xclip
 ```
 
-## License
-
-MIT
